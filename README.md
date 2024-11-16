@@ -23,7 +23,7 @@ ansible-galaxy collection install dcostakos.doppler
 ## Features
 - CRUD Operations on Secrets
 - Lookup module for secret reads
-- Anisble module for more flexibility and write/delete/update access to secrets
+- Ansible module for more flexibility and write/delete/update access to secrets
 - Idempotency
 
 ## Modules
